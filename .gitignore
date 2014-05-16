@@ -1,0 +1,6 @@
+Debug/
+*.ds*
+*.ncb
+*.opt
+*.plg
+*.doc
